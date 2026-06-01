@@ -1,0 +1,10 @@
+.title { color: #DDD; font-size:25px; font-family: Trajan Pro; font-weight: bold; }
+.color2 { font-family: Arial; color: #0331fa; font-weight: bold; font-size: 12px; margin-top: 2px; }
+
+.rank { width: 390px; margin:0 auto; color: #eadfdf; font-family: Arial; font-size: 12px; }
+.rank .destaque td{ font-family: Trajan Pro; color: #000; font-size: 14px; font-weight: bold; background-color: #eadfdf;}
+.rank tr td { border:1px dotted #ccc; padding: 2px 0px 2px 0px; }
+
+.modals { width: 360px; height: 250px; border:1px solid #000; box-shadow:inset 0 0 1px rgba(255,255,255,0.3); border-radius:5px; margin-top: 20px; margin-left: 20px;}
+
+.gludin {	font-weight: bold;	color: #36C;}

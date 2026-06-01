@@ -1,0 +1,4 @@
+[0216/121424.622:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Acesso negado. (0x5)
+[0216/121424.622:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0216/121424.622:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Acesso negado. (0x5)
+[0216/121425.418:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured

@@ -1,0 +1,21 @@
+<options url="http://somehost.org/update/options.xml">
+	<patchlist url="http://somehost.org/update/patchlist.xml" />
+	<news url="http://somehost.org/news/" />
+	<updater url="http://somehost.org/update/LameUpdater.exe" />
+	<full_check days="7" force="0" />
+	<exec program="system\l2.exe" updater_close="1" />
+	<force_check>
+		<dir name="*" mask="*.exe;*.dll" />
+		<dir name="system" mask="*.dat" />
+		<dir name="systextures" mask="L2Font.utx;L2Font-r.utx" />
+	</force_check>
+	<lazy_check>
+		<dir name="system\GameGuard" mask="*.*" />
+		<dir name="system" mask="chatfilter.ini;Option.ini;WindowsInfo.ini;s_info.ini" />
+	</lazy_check>
+	<!--hosts>
+		<line ip="127.0.0.1" domain="l2authd.lineage2.com" />
+		<line ip="127.0.0.1" domain="l2testauthd.lineage2.com" />
+		<line ip="127.0.0.1" domain="nprotect.lineage2.com" />
+	</hosts-->
+</options>

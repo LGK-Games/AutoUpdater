@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?> 
+<Banner 
+	bannerWidth="307"
+	bannerHeight="342"
+
+	textSize="14"
+	textColor=""
+	textAreaWidth=""
+	textLineSpacing="0"	
+	textLetterSpacing="-0.5"	
+	textMarginLeft="12"
+	textMarginBottom="5"
+	
+	transitionType="1"
+	transitionDelayTimeFixed="3" 
+	transitionDelayTimePerWord=".10"
+	transitionSpeed="8"
+	transitionBlur="yes"
+	transitionRandomizeOrder="no"	
+	
+	showTimerClock="yes"
+	showBackButton="yes"
+	showNumberButtons="yes"
+	showNumberButtonsAlways="no"
+	showNumberButtonsHorizontal="yes"
+	showNumberButtonsAscending="yes"
+	autoPlay="yes"
+
+	
+	>
+	<item image="slide/2.gif"
+		target="_blank"
+		textBlend="no"><![CDATA[<font color='#000000'>CRIE SUA CONTA.</font><BR><font color='#000000'>Registre-se agora e conheça um novo mundo cheio de Aventuras!</font>]]></item>
+
+	<item image="slide/1.gif" 
+		target="_blank"
+		textBlend="no"><![CDATA[<font color='#000000'>CRIE SUA CONTA.</font><BR><font color='#000000'>Registre-se agora e conheça um novo mundo cheio de Aventuras!</font>]]></item>
+
+	<item image="slide/3.gif"
+		target="_blank"
+		textBlend="no"><![CDATA[<font color='#000000'>CRIE SUA CONTA.</font><BR><font color='#000000'>Registre-se agora e conheça um novo mundo cheio de Aventuras!</font>]]></item>
+
+	<item image="slide/4.gif"
+		target="_blank"
+		textBlend="no"><![CDATA[<font color='#000000'>CRIE SUA CONTA.</font><BR><font color='#000000'>Registre-se agora e conheça um novo mundo cheio de Aventuras!</font>]]></item>
+
+</Banner>
